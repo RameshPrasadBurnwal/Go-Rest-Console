@@ -1,0 +1,33 @@
+/*-----------------Style sheet for HTML document--------------------*/
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container{
+    background-color:#52606d;
+    height:100vh;
+}
+
+
+.console-container{
+    background-color:white;
+    border-radius:25px;
+}
+
+.heading{
+    color:aqua;
+    font-family:"Roboto";
+    font-size:40px;
+    font-weight:bold;
+
+}
+
+.label-heading{
+    font-family:"Roboto";
+    font-size:20px;
+    font-weight:bold;
+}
+
+.error-msg{
+    color:#dc3545;
+    font-family:"Roboto";
+    font-size:18px;
+}
